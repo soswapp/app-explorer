@@ -1,2 +1,2 @@
 # soswapp
- 7 OS Web - App template
+ 7 OS Web - App Explorer

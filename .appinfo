@@ -1,10 +1,10 @@
 {
-  "nav" : false,
-  "icon" : "<i class='fas fa-icon'</i>",
-  "name" : "soswapp/soswapp",
-  "title" : "App template",
-  "description" : "7 OS Web app - template.",
-  "homepage" : "https://github.com/soswapp/soswapp",
+  "nav" : true,
+  "icon" : "<i class='fas fa-cubes'</i>",
+  "name" : "soswapp/app-explorer.soswapp",
+  "title" : "Apps Explorer",
+  "description" : "7 OS Web app - Explorer.",
+  "homepage" : "https://github.com/soswapp/app-explorer.soswapp",
   "authors": [
       {
         "name": "Ikechukwu Okalia",
